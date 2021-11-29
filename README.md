@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **creating python web applications based on Streamlit.**
 
-- 👨‍💻 All of my projects are available at [github.com/rohanmadhale](github.com/rohanmadhale//)
+- 👨‍💻 All of my projects are available at [github.com/rohanmadhale](https://github.com/rohanmadhale)
 
 - 👀 I’m interested in - ML/Data science/Finance project in Python.
 
