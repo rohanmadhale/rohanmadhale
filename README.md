@@ -1,7 +1,7 @@
 <!-- - 👋 Hi, I’m @rohanmadhale
 - 👀 I’m interested in - ML/Data science/Finance project in Python and maybe R
 - 📫 How to reach me - www.rohan.contact -->
-<h1 align="center">Hi 👋, I'm Rohan!</h1>
+<h1 align="center">Hi 👋, I'm Rohan Madhale.</h1>
 <h3 align="center">A passionate decision scientist from India</h3>
 
 - 🔭 I’m currently working on **creating python web applications based on Streamlit.**
