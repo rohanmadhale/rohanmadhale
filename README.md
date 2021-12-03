@@ -4,13 +4,13 @@
 <h1 align="center">Hi 👋, I'm Rohan Madhale.</h1>
 <h3 align="center">A passionate decision scientist from India</h3>
 
-- 🔭 I’m currently working on **creating python web applications based on Streamlit**
+- 🔭 I’m currently working on         **creating python web applications based on Streamlit**
 
 - 👨‍💻 All of my projects are available at [github.com/rohanmadhale](https://github.com/rohanmadhale)
 
-- 👀 I’m interested in - ML/Data science/Finance project in Python
+- 👀 I’m interested in                - ML/Data science/Finance project in Python
 
-- 📫 How to reach me **www.rohan.contact**
+- 📫 How to reach me                  : **www.rohan.contact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
